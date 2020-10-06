@@ -2,4 +2,3 @@
 
 * Dr. Doom
 * Reberto
-* Capitán America
